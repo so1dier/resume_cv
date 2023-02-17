@@ -20,7 +20,7 @@ Have work in fintech (payments), embedded (machine control), games industries.
 
 ### Senior Firmware Software Engineer (Contract)
 #### BIAMP Systems, Brisbane, QLD
-October 2020 - Present
+October 2021 - current
 - Designed and developed multiple web applications using Java, Spring, and MySQL
 - Collaborated with cross-functional teams to gather requirements, prioritize tasks, and ensure timely delivery of projects
 - Improved application performance by 20% through code optimization and database indexing
@@ -28,7 +28,7 @@ October 2020 - Present
 
 ### Senior Software Engineer
 #### EML Payments, Brisbane, QLD
-January 2016 - May 2018
+March 2017 – October 2021
 - Developed and maintained multiple software applications using Python and Django
 - Implemented RESTful APIs to enable communication between different applications
 - Automated various manual processes, resulting in a 50% reduction in manual labor and increased efficiency
@@ -36,7 +36,7 @@ January 2016 - May 2018
 
 ### Software Engineer
 #### Beeline/AgJunction/HemispehereGPS, Brisbane, QLD
-January 2016 - May 2018
+June 2011 – March 2017
 - Developed and maintained multiple software applications using Python and Django
 - Implemented RESTful APIs to enable communication between different applications
 - Automated various manual processes, resulting in a 50% reduction in manual labor and increased efficiency
@@ -44,16 +44,18 @@ January 2016 - May 2018
 
 ### Software Developer
 #### Heritage Bank, Brisbane, QLD
-January 2016 - May 2018
+September 2008 - June 2011
+- Improve and develop core banking system (C++, C#, IBM UniVerse)
+- Automate loan application by creating a pipeline and implementing a title search web service (C#, SOAP, XML)
 - Developed and maintained multiple software applications using Python and Django
 - Implemented RESTful APIs to enable communication between different applications
 - Automated various manual processes, resulting in a 50% reduction in manual labor and increased efficiency
 - Participated in code reviews and provided constructive feedback to improve code quality
 
 ## Education:
-### Bachelor of Science in Computer Science
+### Bachelor of Information Technology – Games Technology
 #### Queensland University of Technology
-September 2012 - May 2016
+2005-2007
 
 ## Certifications:
 - Oracle Certified Professional, Java SE 11 Developer
