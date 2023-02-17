@@ -59,6 +59,11 @@ September 2012 - May 2016
 - Oracle Certified Professional, Java SE 11 Developer
 - Certified Scrum Master (CSM)
 
+## Accomplishments:
+- Financial Markets, Yale University (Grade Achieved: 94.40%)
+- Cloud Computing Foundations, Duke University (Grade Achieved: 90%)
+- Object Oriented Data Structures in C++, University of Illinois (Grade Achieved: 94%)
+
 ## Awards:
 - EML Payments employee of the quarter
 - Heritage Team of the year
