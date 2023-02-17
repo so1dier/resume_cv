@@ -58,3 +58,8 @@ September 2012 - May 2016
 ## Certifications:
 - Oracle Certified Professional, Java SE 11 Developer
 - Certified Scrum Master (CSM)
+
+## Awards:
+- EML Payments employee of the quarter
+- Heritage Team of the year
+- Heritage Employee of the month
