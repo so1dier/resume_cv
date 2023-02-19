@@ -5,7 +5,7 @@ don.aus@gmail.com
 ## Summary:
 Highly motivated and experienced software engineer with 14+ years of experience designing, developing, and testing software applications.  
 Proficient in C++, Python3.8, and Linux. Strong problem-solving skills and experience working in Agile and Scrum environments.  
-Have work in fintech (payments), embedded (machine control), games industries.  
+Have work in fintech (payments), banking, embedded (machine control and gps), games industries.  
 
 ## Technical Skills:
 - Programming languages: C++11/14/17/20, Python, C#, JavaScript
@@ -14,7 +14,8 @@ Have work in fintech (payments), embedded (machine control), games industries.
 - Databases: MySQL, Oracle, Redis, DynamoDB
 - Middleware: RabbitMq, Kafka 
 - Operating systems: Linux, MacOS, Windows
-- Tools: Git, JIRA, Trello, VS Code, vim, Linux CLI.
+- Tools: Git, JIRA, Trello, VS Code, vim, Linux CLI
+- Refactoring legacy code, test-driven development
 
 ## Work Experience:
 
