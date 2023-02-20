@@ -25,7 +25,7 @@ A fan of Kaizen philosophy, incremental improvements over time.
 
 ## Work Experience:
 
-### Senior Firmware Engineer (Contract)
+### Senior Firmware Engineer (Contract Extended)
 #### BIAMP Systems, Brisbane, QLD
 October 2021 - current
 - Transformed a failing project by introducing simple design decisions. 
