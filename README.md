@@ -3,9 +3,15 @@ Brisbane, Australia, QLD
 don.aus@gmail.com
 
 ## Summary:
-Highly motivated and experienced software engineer with 14+ years of experience designing, developing, and testing software applications.  
-Proficient in C++, Python3.8, and Linux. Strong problem-solving skills and experience working in Agile and Scrum environments.  
-Have work in fintech (payments), banking, embedded (machine control and gps), games industries.  
+Highly motivated software engineer with a diverse background in multiple industries, including transaction processing, games development, machine control, and GPS navigation.  
+Proficient in C++, Python, and Linux, with a proven track record of delivering reliable and efficient software solutions.  
+Experience includes developing distributed software applications for financial institutions and modernizing legacy code without introducing risk. 
+Possesses exceptional analytical skills in creating detailed specifications for software solutions that are easily understood by both senior and junior-level developers.  
+Continuously learning new techniques, tools, and technologies for rapid development to stay up-to-date in the constantly evolving field of software development.  
+A highly adaptable individual who thrives in new environments, programming techniques, and languages.
+Following industries best practices with SOLID prnciples, ci/cd, cloud, test-driven development.
+A fan of Kaizen philosophy, incremental improvements over time.
+
 
 ## Technical Skills:
 - Programming languages: C++11/14/17/20, Python, C#, JavaScript
@@ -22,18 +28,20 @@ Have work in fintech (payments), banking, embedded (machine control and gps), ga
 ### Senior Firmware Engineer (Contract)
 #### BIAMP Systems, Brisbane, QLD
 October 2021 - current
-- Designed and developed multiple web applications using Java, Spring, and MySQL
-- Collaborated with cross-functional teams to gather requirements, prioritize tasks, and ensure timely delivery of projects
-- Improved application performance by 20% through code optimization and database indexing
-- Mentored junior and mid software engineers and provided guidance on software design and development best practices
+- Transformed a failing project by introducing simple design decisions. 
+- Resolved critical concurrency issues to improve system stability and reliability. 
+- Optimized memory usage by dividing configuration into manageable pages. 
+- Eliminated thread bottlenecks to improve performance. 
+- Successfully delivered the project on time and exceeded expectations. 
+- Mentored software engineers and provided guidance on software design and development best practices
 
 ### Senior Software Engineer
 #### EML Payments, Brisbane, QLD
 March 2017 – October 2021
-- Developed and maintained multiple software applications using Python and Django
-- Implemented RESTful APIs to enable communication between different applications
-- Automated various manual processes, resulting in a 50% reduction in manual labor and increased efficiency
-- Participated in code reviews and provided constructive feedback to improve code quality
+- Quickly adapted to the payments industry, mastering the ISO8583 standard and backend architecture for processing payments.  
+- Made immediate contributions to the team, improving processes by automating laborious tasks and saving the company time and money on engineering resources.  
+- Introduced a CI/CD pipeline for legacy software, resulting in faster and more reliable deployments.  
+- Identified bottlenecks in the system and developed a scalable service that significantly reduced downtime, resulting in a highly reliable system.  
 
 ### Software Engineer
 #### Beeline/AgJunction/HemispehereGPS, Brisbane, QLD
