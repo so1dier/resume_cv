@@ -59,7 +59,7 @@ September 2008 - June 2011
 - Automate commission, bonus, and award calculations for branches (C#, IBM UniVerse)
 
 
-### Bachelor of Information Technology – Games Technology
+### Bachelor of Information Technology – Games Technology (GPA 5.3/7)
 #### Queensland University of Technology - 2005-2007
 (2008) Sand Auto Wars - Final project for Queensland University of Technology 
 - Led the design, development, and management of a multiplayer car driving game set in a post-apocalyptic world. Highlights of my contributions include:
