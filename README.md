@@ -54,7 +54,7 @@ June 2011 – March 2017
 #### Heritage Bank, Brisbane, QLD - Software Analyst Programmer
 [ C++, C# .NET, ASP, IBM UniVerse, RedHat Linux ]
 September 2008 - June 2011
-- Developed and imporveed core banking system (C++, C#, IBM UniVerse)
+- Developed and imporved core banking system (C++, C#, IBM UniVerse)
 - Automate loan application by creating a pipeline and implementing a title search web service (C#, SOAP, XML)
 - Automate commission, bonus, and award calculations for branches (C#, IBM UniVerse)
 
