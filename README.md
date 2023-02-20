@@ -3,14 +3,14 @@ Brisbane, Australia, QLD
 don.aus@gmail.com
 
 ## Summary:
-Highly motivated software engineer with a diverse background in multiple industries, including transaction processing, games development, machine control, and GPS navigation.  
-Proficient in C++, Python, and Linux, with a proven track record of delivering reliable and efficient software solutions.  
-Experience includes developing distributed software applications for financial institutions and modernizing legacy code without introducing risk.  
-Possesses exceptional analytical skills in creating detailed specifications for software solutions that are easily understood by both senior and junior-level developers.  
-Continuously learning new techniques, tools, and technologies for rapid development to stay up-to-date in the constantly evolving field of software development.  
-A highly adaptable individual who thrives in new environments, programming techniques, and languages.  
-Following industries best practices with SOLID prnciples, ci/cd, cloud, test-driven development.  
-A fan of Kaizen philosophy, incremental improvements over time.  
+- Highly motivated software engineer with a diverse background in multiple industries, including transaction processing, games development, machine control, and GPS navigation.  
+- Proficient in C++, Python, and Linux, with a proven track record of delivering reliable and efficient software solutions.  
+- Experience includes developing distributed software applications for financial institutions and modernizing legacy code without introducing risk.  
+- Possesses exceptional analytical skills in creating detailed specifications for software solutions that are easily understood by both senior and junior-level developers.  
+- Continuously learning new techniques, tools, and technologies for rapid development to stay up-to-date in the constantly evolving field of software development.  
+- A highly adaptable individual who thrives in new environments, programming techniques, and languages.  
+- Following industries best practices with SOLID prnciples, ci/cd, cloud, test-driven development.  
+- A fan of Kaizen philosophy, incremental improvements over time.  
 
 
 ## Technical Skills:
