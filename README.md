@@ -25,9 +25,8 @@ don.aus@gmail.com
 
 ## Work Experience Summary:
 
-#### BIAMP Systems, Brisbane, QLD - Senior Firmware Engineer (Contract Extended)
-[ C/C++, C#, Python, Linux, Embedded ]
-October 2021 - current
+#### BIAMP Systems, Brisbane, QLD - Senior Firmware Engineer (Contract Extended)  
+October 2021 - current [ C/C++, C#, Python, Linux, Embedded ]  
 - Transformed a failing project by introducing simple design decisions. 
 - Resolved critical concurrency issues to improve system stability and reliability. 
 - Optimized memory usage by dividing configuration into manageable pages. 
@@ -36,25 +35,22 @@ October 2021 - current
 - Provided mentorship to software engineers, guiding them on industry-standard software design and development best practices.
 
 #### EML Payments, Brisbane, QLD - Senior Software Engineer
-[ C/C++, C#, Python, ISO8583, Scale, Cloud, Legacy ]
-March 2017 – October 2021
+March 2017 – October 2021 [ C/C++, C#, Python, ISO8583, Scale, Cloud, Legacy ]  
 - Quickly adapted to the payments industry, mastering the ISO8583 standard and backend architecture for payments processing.  
 - Made immediate contributions to the team, improving processes by automating laborious tasks and saving the company time and money on engineering resources.  
 - Introduced a CI/CD pipeline for legacy software, resulting in faster and more reliable deployments.  
 - Identified bottlenecks in the authorization system and developed a scalable HSM service that significantly reduced downtime, resulting in a highly reliable system.  
 
 #### Beeline/AgJunction/HemispehereGPS, Brisbane, QLD - Software Engineer
-[ C/C++, Python, Linux, Embedded Windows XP, Finite-State-Manchine ]
-June 2011 – March 2017
+June 2011 – March 2017 [ C/C++, Python, Linux, Embedded Windows XP, Finite-State-Manchine ]  
 - Identified duplicated portions of common logic in multiple products being developed by the company.  
 - Pioneered the creation of a calibration library to unify this common logic in one central location.  
 - Streamlined development processes and reduced duplication of effort by consolidating common logic in the calibration library.  
 
 
-#### Heritage Bank, Brisbane, QLD - Software Analyst Programmer
-[ C++, C# .NET, ASP, IBM UniVerse, RedHat Linux ]
-September 2008 - June 2011
-- Developed and imporved core banking system (C++, C#, IBM UniVerse)
+#### Heritage Bank, Brisbane, QLD - Software Analyst Programmer  
+September 2008 - June 2011 [ C++, C# .NET, ASP, IBM UniVerse, RedHat Linux ]  
+- Developed and imporved core banking system (C++, C#, IBM UniVerse) 
 - Automate loan application by creating a pipeline and implementing a title search web service (C#, SOAP, XML)
 - Automate commission, bonus, and award calculations for branches (C#, IBM UniVerse)
 
